@@ -16,7 +16,7 @@ const projectsData = [
     title: 'IOT',
     thumbnail: 'IOT.jpeg', // Update with the correct local path
     description: 'A brief description of Project 2.',
-    link: 'https://github.com/example/project2',
+    link: 'https://github.com/topics/iot-project',
     details: "Designed and implemented a temperature application sensor as part of an IoT workshop, showcasing my proficiency in sensor integration and IoT technology.\nInvolved in the selection and calibration of temperature sensors, interfacing with microcontrollers, and leveraging wireless communication protocols for real-time data transmission.",
   },
   // Add more projects as needed
